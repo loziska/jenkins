@@ -1,3 +1,5 @@
+bat 'chcp 65001'
+
 pipeline {
     agent any
     stages {
